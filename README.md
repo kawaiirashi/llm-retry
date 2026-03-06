@@ -104,6 +104,18 @@ cmake -B build && cmake --build build
 
 C++17. No external dependencies.
 
+## See Also
+
+The C++ LLM header suite — each is a single `.hpp`, no extra deps:
+
+| Repo | What it does |
+|------|-------------|
+| [llm-stream](https://github.com/Mattbusel/llm-stream) | Streaming responses from OpenAI & Anthropic |
+| [llm-cache](https://github.com/Mattbusel/llm-cache) | Response caching — skip redundant API calls |
+| [llm-cost](https://github.com/Mattbusel/llm-cost) | Token counting + per-model cost estimation |
+| **llm-retry** *(this repo)* | Retry logic + circuit breaker |
+| [llm-format](https://github.com/Mattbusel/llm-format) | Structured output / schema enforcement |
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
